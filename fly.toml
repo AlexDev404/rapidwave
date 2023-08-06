@@ -1,6 +1,6 @@
 # fly.toml file generated for iris-frontend on 2022-12-29T18:56:47-06:00
 
-app = "iris-frontend"
+app = "rapidwave"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
